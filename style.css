@@ -1,0 +1,11 @@
+/*css(0, 0, 1){
+    carousel-caption-width: 70%
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    color:darkmagenta
+}
